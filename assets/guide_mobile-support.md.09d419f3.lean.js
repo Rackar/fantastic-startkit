@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as l}from"./app.78e066e5.js";const h=JSON.parse('{"title":"\u79FB\u52A8\u7AEF\u652F\u6301","description":"","frontmatter":{},"headers":[],"relativePath":"guide/mobile-support.md"}'),p={name:"guide/mobile-support.md"},o=l("",5),e=[o];function t(c,i,r,D,y,F){return n(),a("div",null,e)}var C=s(p,[["render",t]]);export{h as __pageData,C as default};
